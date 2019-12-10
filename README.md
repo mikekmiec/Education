@@ -2,7 +2,7 @@
 
 I completed CSE 163 from UW and included all related documents (e.g. tests, homework, lectures, etc)
 
-Below is a short summary of each homework assignement:
+Below is a short summary of each homework assignment:
 
 1. Python basics.
 2. Processing CSV Data - Process structured data (Pokemon) in Python with CSV files as input with pandas and without.
